@@ -48,7 +48,6 @@
             android:text="@string/good_service" />
 
         <RadioButton
-            android:id="@+id/option_fifteen_percent"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/okay_service" />
@@ -74,7 +73,6 @@
         app:layout_constraintTop_toBottomOf="@+id/round_up_switch" />
 
     <TextView
-        android:id="@+id/tip_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
